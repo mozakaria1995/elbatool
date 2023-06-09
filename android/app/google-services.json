@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57245047367",
+    "project_id": "batol-58deb",
+    "storage_bucket": "batol-58deb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57245047367:android:5ed6e4cbd5236be7346f62",
+        "android_client_info": {
+          "package_name": "com.amadoctorsdigitalsystem.elbatool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57245047367-dfm2dje19b4l4nm6lkv605f6469b3m5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg-GOZXz4qwrsHUeCOeJ1RONTH-MPnO2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57245047367-dfm2dje19b4l4nm6lkv605f6469b3m5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
